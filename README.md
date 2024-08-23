@@ -15,7 +15,7 @@ How to Use:
 
     1. Edit: Replace lines 9 and 10 with your bot's Telegram token and your domain.
     2. Upload: Upload the bot's script to your hosting server.
-    3. Set Webhook: Use [@HiRAMiXwebBOT](https://t.me/HiRAMiXwebBOT) or any other tool to set up a webhook.
+    3. Set Webhook: Use https://t.me/HiRAMiXwebBOT or any other tool to set up a webhook.
     4. Run: Start the bot and enjoy!
 
 Supported File Types:
