@@ -31,4 +31,5 @@ Why Use This Bot?
     Preserve Quality: Files are converted with maximum quality.
 
 
-    - Made with ❤️ by [@ShayanGolMezerji](https://www.github.com/ShayanGolMezerji)
+
+- Made with ❤️ by [@ShayanGolMezerji](https://www.github.com/ShayanGolMezerji)
